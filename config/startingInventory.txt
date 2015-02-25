@@ -1,9 +1,8 @@
 imc:item_machete_stone, 1
-minecraft:stone_shovel, 1
-minecraft:stone_sword, 1
+minecraft:stone_pickaxe, 1
 minecraft:stone_axe, 1
 DCsAppleMilk:defeatedcrow.appleTart, 16
 minecraft:torch, 32
 dynamicswordskills:dss.skillorb, 1
 Botania:lexicon, 1
-minecraft:bed, 1
+factorization:docbook, 1

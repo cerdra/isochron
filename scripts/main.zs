@@ -27,3 +27,25 @@ recipes.addShapeless(<Artifice:tile.artifice.basalt:1>, [<Railcraft:brick.abyssa
 
 recipes.addShapeless(<Artifice:tile.artifice.basalt:0>, [<Railcraft:cube:6>]);
 recipes.addShapeless(<Railcraft:cube:6>, [<Artifice:tile.artifice.basalt:0>]);
+
+
+//TCon stuff
+//New mossball recipe.
+<ore:cropVine>.add(<minecraft:vine>);
+<ore:cropVine>.add(<BiomesOPlenty:flowerVine>);
+val creeperskull = <minecraft:skull:4>;
+
+recipes.removeShaped(<TConstruct:materials:6>);
+
+recipes.addShaped(<TConstruct:materials:6>, 
+[[<ore:cropVine>, <ore:cropVine>, <ore:cropVine>],
+[<ore:cropVine>, creeperskull, <ore:cropVine>],
+[<ore:cropVine>, <ore:cropVine>, <ore:cropVine>]]);
+
+//Factorization stuff
+//Dark Iron dust (depends on AOBD and Thermal Foundation)
+recipes.addShapeless(<aobd:dustFzDarkIron>*4, 
+[<ore:dustIron>, <ore:dustIron>,
+<ore:dustObsidian>, <minecraft:blaze_powder>,
+<minecraft:lava_bucket>.transformReplace(<minecraft:bucket>)]);
+
