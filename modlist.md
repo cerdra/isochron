@@ -5,14 +5,17 @@
 *   A: They're the "Library/helper" mods, which I've noted at the bottom of the list. They're in the "1.7.10" folder in the instance so they stay out of the way.
 
 # Content mods
+*   [1.7.10]MapleTree Forge v1.1.30d
 *   1.7.10 Technomancy 0.9.0
 *   1.7.10-MB_Battlegear2-Bullseye-1.0.7.0
 *   1.7.10-Pistronics2-v0.5.2
 *   ae2stuff-mc1710-0.1.5.13
+*   AgriCraft-1.7.10-1.2.2
 *   AppleMilkTea2-1.7.10_2.3d
 *   appliedenergistics2-rv2-beta-8
 *   Artifice-1.7.10-1.1.4-313
 *   Automagy-1.7.10-0.19.3
+*   Bamboo-2.6.8.3
 *   BetterStorage-1.7.10-0.11.3.123
 *   BigReactors-0.4.2A2
 *   BiomesOPlenty-1.7.10-2.1.0.1067-universal
