@@ -9,6 +9,6 @@ For a changelog, refer to the file "changelog.md".
 
 
 
-These config files are Copyright (I guess?) (c) [@cerdra](http://github.com/cerdra) <cerdra@gmail.com> and the other Github collaborators for this project ([@NotGyro](http://github.com/notgyro), [@DoctorWiggles](http://github.com/doctorwiggles), [@zeflap](http://github.com/zeflap)).
+These config files are Copyright (I guess?) (c) [@cerdra](http://github.com/cerdra) and the other Github collaborators for this project ([@NotGyro](http://github.com/notgyro), [@DoctorWiggles](http://github.com/doctorwiggles), [@zeflap](http://github.com/zeflap)).
 
 This work is free. You can redistribute it and/or modify it under the terms of the Do What The Fuck You Want To Public License, Version 2, as published by Sam Hocevar. See the LICENSE file for more details.
