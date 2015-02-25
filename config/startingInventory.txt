@@ -1,6 +1,9 @@
-imc:item_machete_nether_brick, 1
-imc:item_nether_brick_shovel, 1
-imc:item_nether_brick_sword, 1
-imc:item_nether_brick_axe, 1
-minecraft:apple, 16
+imc:item_machete_stone, 1
+minecraft:stone_shovel, 1
+minecraft:stone_sword, 1
+minecraft:stone_axe, 1
+DCsAppleMilk:defeatedcrow.appleTart, 16
 minecraft:torch, 32
+dynamicswordskills:dss.skillorb, 1
+Botania:lexicon, 1
+minecraft:bed, 1
