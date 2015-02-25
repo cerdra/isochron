@@ -6,15 +6,12 @@
 
 # Content mods
 *   [1.7.10]MapleTree Forge v1.1.30d
-*   1.7.10 Technomancy 0.9.0
+*   1.7.10-dynamicswordskills-1.6.5
 *   1.7.10-MB_Battlegear2-Bullseye-1.0.7.0
 *   1.7.10-Pistronics2-v0.5.2
-*   ae2stuff-mc1710-0.1.5.13
 *   AgriCraft-1.7.10-1.2.2
 *   AppleMilkTea2-1.7.10_2.3d
-*   appliedenergistics2-rv2-beta-8
 *   Artifice-1.7.10-1.1.4-313
-*   Automagy-1.7.10-0.19.3
 *   Bamboo-2.6.8.3
 *   BetterStorage-1.7.10-0.11.3.123
 *   BigReactors-0.4.2A2
@@ -31,8 +28,6 @@
 *   EnchantingPlus-1.7.10-3.0.2-d
 *   Enchiridion 2-1.7.10-2.0c
 *   EnderTech-1.7.10-0.3.0.364
-*   Fluxed Trinkets-1.7.10-1.0.54
-*   Forbidden Magic-1.7.10-0.56
 *   Fossils_Archeology_Revival-1.7.10_Build-7.0.1
 *   helpertools-1.7.10-1.1.4f
 *   hopperductmod-1.7.10-1.3.2
@@ -42,10 +37,8 @@
 *   Jabba-1.2.1_1.7.10
 *   littleMaidMobX-1.7.x_0.0.7
 *   Magitek-1.7.10-0.3
-*   MineFactoryReloaded-2.8.0RC7-71
 *   MineTweaker3-1.7.10-3.0.9C
 *   MineTweakerRecipeMaker-1.7.10-1.1.0.11
-*   miscMFRcircuits-1.7.10-0.6.0
 *   ModTweaker2-1.7.X-0.7.1
 *   Morpheus-1.7.10-1.6.3
 *   natura-1.7.10-2.2.0.1
@@ -62,7 +55,6 @@
 *   Railcraft_1.7.10-9.5.0.0
 *   redlogic-59.1.9
 *   RedstoneArsenal-1.1.0RC2-43
-*   RedstonePasteMod-1.7.10-1.6.2
 *   Redstonic-v1.1
 *   rftools-2.50
 *   roguelike-1.7.10-1.3.5
@@ -73,9 +65,6 @@
 *   StartingInventory-universal-1.7.10.r03
 *   supercraftingframe-1.7.10.1
 *   TConstruct-1.7.10-1.8.2a
-*   Thaumcraft-1.7.10-4.2.3.5
-*   thaumicenergistics-0.8.9.0b-rv2
-*   thaumichorizons-1.7.10-1.0.4
 *   ThermalDynamics-1.0.0RC2-77
 *   ThermalExpansion-4.0.0RC2-129
 *   ThermalFoundation-1.0.0RC3-56
@@ -115,7 +104,6 @@
 *   fastcraft-1.9
 *   FastLeafDecay-1.7.10-1.0
 *   ForgeMultipart-1.7.10-1.1.1.322-universal
-*   gud_thaumicnei-1.2.3
 *   immibis-core-59.0.7
 *   Improving Minecraft-1.6
 *   LunatriusCore-1.7.10-1.1.2.21-universal
