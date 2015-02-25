@@ -34,6 +34,7 @@
 *   ibench-1.7.10-1.0.12
 *   IguanaTinkerTweaks-1.7.10-2.1.2
 *   Invasion_1.1.2_1.7.10
+*   ItemSearch-1.4.0
 *   Jabba-1.2.1_1.7.10
 *   littleMaidMobX-1.7.x_0.0.7
 *   Magitek-1.7.10-0.3
