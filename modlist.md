@@ -11,6 +11,7 @@
 *   1.7.10-Pistronics2-v0.5.2
 *   AgriCraft-1.7.10-1.2.2
 *   AppleMilkTea2-1.7.10_2.3d
+*   Applied Energistics 2
 *   Artifice-1.7.10-1.1.4-313
 *   Bamboo-2.6.8.3
 *   BetterStorage-1.7.10-0.11.3.123
@@ -21,13 +22,13 @@
 *   Chisel2-2.3.7.34
 *   ChocoCraft-4.1.5
 *   CraftHeraldry 1.1.3
-*   CustomNPCs_1.7.10c
 *   dark_menagerie-1.7.10-beta-2.0
 *   denseores-1.5
 *   EasyCrafting-1.7.10-2.0.1.16
 *   EnchantingPlus-1.7.10-3.0.2-d
 *   Enchiridion 2-1.7.10-2.0c
 *   EnderTech-1.7.10-0.3.0.364
+*   Factorization
 *   Fossils_Archeology_Revival-1.7.10_Build-7.0.1
 *   helpertools-1.7.10-1.1.4f
 *   hopperductmod-1.7.10-1.3.2
@@ -59,6 +60,7 @@
 *   Redstonic-v1.1
 *   rftools-2.50
 *   roguelike-1.7.10-1.3.5
+*   Router Reborn
 *   RWG-alpha-1.3.01
 *   SimplyJetpacks-MC1.7.10-1.4.1
 *   SlashBlade-mc1.7.10-r51.1
@@ -104,7 +106,6 @@
 *   CoFHCore-3.0.0RC2-195
 *   fastcraft-1.9
 *   FastLeafDecay-1.7.10-1.0
-*   ForgeMultipart-1.7.10-1.1.1.322-universal
 *   immibis-core-59.0.7
 *   Improving Minecraft-1.6
 *   LunatriusCore-1.7.10-1.1.2.21-universal
