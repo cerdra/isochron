@@ -29,6 +29,7 @@ Found creative tab: JAKJ_RedstoneInMotion
 Found creative tab: MineFactory Reloaded
 Found creative tab: food
 Found creative tab: combat
+Found creative tab: MoCreaturesTab
 Found creative tab: natura.plants
 Found creative tab: transportation
 Found creative tab: natura.nether
@@ -138,8 +139,8 @@ Loading: Bibliocraft.js
 Loading: AppliedEnergistics2.js
 getFacadeItem called. Returned: appliedenergistics2:item.ItemFacade
 getSubTypes called.
-getNumberOfTypes called. Returned: 2451
-override called. Params: appliedenergistics2, item.ItemFacade, 2325
+getNumberOfTypes called. Returned: 2455
+override called. Params: appliedenergistics2, item.ItemFacade, 1595
 Regex match found! appliedenergistics2:item.ItemFacade matches appliedenergistics2:item.ItemFacade.
 Found ItemStack appliedenergistics2:item.ItemFacade. 64xitem.appliedenergistics2.ItemFacade@0
 Loading: Tcon.js
