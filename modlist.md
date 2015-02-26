@@ -39,7 +39,6 @@
 *   ItemSearch-1.4.0
 *   Jabba-1.2.1_1.7.10
 *   littleMaidMobX-1.7.x_0.0.7
-*   Magitek-1.7.10-0.3
 *   MineFactoryReloaded-[1.7.10]2.8.0RC7-71
 *   MineTweaker3-1.7.10-3.0.9C
 *   MineTweakerRecipeMaker-1.7.10-1.1.0.11
