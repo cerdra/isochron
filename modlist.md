@@ -30,6 +30,7 @@
 *   EnderTech-1.7.10-0.3.0.364
 *   Factorization
 *   Fossils_Archeology_Revival-1.7.10_Build-7.0.1
+*   funky-locomotion-1.7.10-beta-5a
 *   helpertools-1.7.10-1.1.4f
 *   hopperductmod-1.7.10-1.3.2
 *   ibench-1.7.10-1.0.12
