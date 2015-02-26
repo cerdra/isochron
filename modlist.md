@@ -21,9 +21,11 @@
 *   Carpenter's Blocks v3.3.4.4 - MC 1.7.10
 *   Chisel2-2.3.7.34
 *   ChocoCraft-4.1.5
+*   ComputerCraft1.73
 *   CraftHeraldry 1.1.3
 *   dark_menagerie-1.7.10-beta-2.0
 *   denseores-1.5
+*   DrZharks MoCreatures Mod v6.3.1
 *   EasyCrafting-1.7.10-2.0.1.16
 *   EnchantingPlus-1.7.10-3.0.2-d
 *   Enchiridion 2-1.7.10-2.0c
