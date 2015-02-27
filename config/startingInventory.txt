@@ -1,8 +1,12 @@
 imc:item_machete_stone, 1
 minecraft:stone_pickaxe, 1
 minecraft:stone_axe, 1
-DCsAppleMilk:defeatedcrow.appleTart, 16
+minecraft:bread, 16
 minecraft:torch, 32
 dynamicswordskills:dss.skillorb, 1
 Botania:lexicon, 1
 factorization:docbook, 1
+minecraft:leather_helmet
+minecraft:leather_chestplate
+minecraft:leather_leggings
+minecraft:leather_boots
