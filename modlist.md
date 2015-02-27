@@ -25,7 +25,6 @@
 *   CraftHeraldry 1.1.3
 *   dark_menagerie-1.7.10-beta-2.0
 *   denseores-1.5
-*   DrZharks MoCreatures Mod v6.3.1
 *   EasyCrafting-1.7.10-2.0.1.16
 *   EnchantingPlus-1.7.10-3.0.2-d
 *   Enchiridion 2-1.7.10-2.0c
@@ -83,16 +82,18 @@
 *   Ztones-1.7.10-2.2.1
 
 
-# Client mods (disabled by default)
-*   fognerf-1.7.10-0.4
-*   InGameInfoXML-1.7.10-2.8.1.75-universal
+# Client mods (enabled by default)
 *   InventoryTweaks-1.59-dev-152
-*   JourneyMap5.0.1_Unlimited_MC1.7.10
 *   TiCTooltips-mc1.7.10-1.2.3
 *   Waila-1.5.9_1.7.10
 *   WailaHarvestability-mc1.7.x-1.1.2
 *   WAILAPlugins-MC1.7.10-0.0.1-13
 *   Wawla-1.1.1_1.7.10
+
+#Client mods (disabled by default)
+*   fognerf-1.7.10-0.4
+*   InGameInfoXML-1.7.10-2.8.1.75-universal
+*   JourneyMap5.0.1_Unlimited_MC1.7.10
 
 
 # "Library/helper" mods
